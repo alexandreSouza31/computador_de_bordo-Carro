@@ -37,16 +37,16 @@ Trata-se de uma aplicação backend onde é realizada a simulação de um comput
 
 #### passo 1 - Clone ou baixe o projeto
 
-1- Abra o terminal do seu editor de código;
-2- Navegue até a pasta onde deseja instalar o projeto;
-3- Digite o seguinte comando no terminal(clone via https) ```git clone https://github.com/alexandreSouza31/computador_de_bordo-Carro.git```, ou se preferir,baixe clicando no cotão verde chamado "Code" no repositório desse projeto, e depois "Download zip.
+1. Abra o terminal do seu editor de código;
+2. Navegue até a pasta onde deseja instalar o projeto;
+3. Digite o seguinte comando no terminal(clone via https) ```git clone https://github.com/alexandreSouza31/computador_de_bordo-Carro.git```, ou se preferir,baixe clicando no cotão verde chamado "Code" no repositório desse projeto, e depois "Download zip.
 
 #### passo 2 - Iniciando o projeto
 
-1- Use o Node.JS, ou use alguma extensão no seu programa de ambiente de desenvolvimento;
-2- Se escolheu Node.JS, digite `node` e navegue até o arquivo index.js deste repositório de clique "Enter";
-3- Se preferiu extensão, como o Code Runner do VS Code, por exemplo, basta abrir o arquivo e clicar no ícone de "play";
-4- Chame a função repetirAcao com a ação que desejar e o número de vezes que quer repetí-la por parâmetro;
+1. Use o Node.JS, ou use alguma extensão no seu programa de ambiente de desenvolvimento;
+2. Se escolheu Node.JS, digite `node` e navegue até o arquivo index.js deste repositório de clique "Enter";
+3. Se preferiu extensão, como o Code Runner do VS Code, por exemplo, basta abrir o arquivo e clicar no ícone de "play";
+4. Chame a função repetirAcao com a ação que desejar e o número de vezes que quer repetí-la por parâmetro;
 
 
 ### Contribuição
